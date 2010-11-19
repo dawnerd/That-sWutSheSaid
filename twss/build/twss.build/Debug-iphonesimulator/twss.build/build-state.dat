@@ -1,0 +1,1960 @@
+Ttwss
+v7
+r0
+t297065247.159843
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Info.plist" twss-Info.plist
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib"
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib"
+cCpResource "build/Debug-iphonesimulator/She Said.app/twss_bg.png" twss_bg.png
+cCpResource "build/Debug-iphonesimulator/She Said.app/twss_icon.png" twss_icon.png
+cCpResource "build/Debug-iphonesimulator/She Said.app/Default.png" Default.png
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib"
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib"
+cCpResource "build/Debug-iphonesimulator/She Said.app/add_icon.png" add_icon.png
+cProcessPCH /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch.gch twss_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/main.o "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssAppDelegate.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssViewController.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/contributeForm.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said" normal i386
+cGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said"
+cTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BC930F90000000000000110
+t1271476473
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Changes.rtf
+c000000004B93C5440000000000002D29
+t1267975492
+s11561
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Credits.rtf
+c000000004B93BE830000000000000D03
+t1267973763
+s3331
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation.html
+c000000004B93C91F00000000000001AA
+t1267976479
+s426
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/JSON_8h_source.html
+c000000004B93C91D00000000000011D6
+t1267976477
+s4566
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/NSObject_09SBJSON_8h_source.html
+c000000004B93C91D0000000000001332
+t1267976477
+s4914
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/NSString_09SBJSON_8h_source.html
+c000000004B93C91D0000000000001302
+t1267976477
+s4866
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJSON_8h_source.html
+c000000004B93C91D0000000000001B69
+t1267976477
+s7017
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonBase_8h_source.html
+c000000004B93C91D0000000000001978
+t1267976477
+s6520
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonParser_8h_source.html
+c000000004B93C91D00000000000018A7
+t1267976477
+s6311
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonWriter_8h_source.html
+c000000004B93C91D0000000000001B2B
+t1267976477
+s6955
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/annotated.html
+c000000004B93C91D0000000000000BA9
+t1267976477
+s2985
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSObject_07NSObject__SBJSON_08-members.html
+c000000004B93C91D0000000000000816
+t1267976477
+s2070
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSObject_07SBProxyForJson_08-members.html
+c000000004B93C91D00000000000005DA
+t1267976477
+s1498
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSString_07NSString__SBJSON_08-members.html
+c000000004B93C91D0000000000000812
+t1267976477
+s2066
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJSON-members.html
+c000000004B93C91D000000000000116B
+t1267976477
+s4459
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonBase-members.html
+c000000004B93C91D000000000000084C
+t1267976477
+s2124
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonParser-members.html
+c000000004B93C91D000000000000094B
+t1267976477
+s2379
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonWriter-members.html
+c000000004B93C91D000000000000094B
+t1267976477
+s2379
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classes.html
+c000000004B93C91D0000000000000B35
+t1267976477
+s2869
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/deprecated.html
+c000000004B93C91D0000000000000B35
+t1267976477
+s2869
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/doxygen.css
+c000000004B93C91D0000000000001645
+t1267976477
+s5701
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/doxygen.png
+c000000004B93C91D0000000000000501
+t1267976477
+s1281
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/files.html
+c000000004B93C91D000000000000089E
+t1267976477
+s2206
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions.html
+c000000004B93C91D0000000000000E98
+t1267976477
+s3736
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions_func.html
+c000000004B93C91D0000000000000C6C
+t1267976477
+s3180
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions_prop.html
+c000000004B93C91D0000000000000810
+t1267976477
+s2064
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/hierarchy.html
+c000000004B93C91D0000000000000963
+t1267976477
+s2403
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/index.html
+c000000004B93C91D000000000000070C
+t1267976477
+s1804
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSObject_07NSObject__SBJSON_08.html
+c000000004B93C91D00000000000012C0
+t1267976477
+s4800
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSObject_07SBProxyForJson_08.html
+c000000004B93C91D0000000000000983
+t1267976477
+s2435
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSString_07NSString__SBJSON_08.html
+c000000004B93C91D000000000000118F
+t1267976477
+s4495
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJSON.html
+c000000004B93C91D0000000000005DB5
+t1267976477
+s23989
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJSON.png
+c000000004B93C91D00000000000002D2
+t1267976477
+s722
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonBase.html
+c000000004B93C91D000000000000121C
+t1267976477
+s4636
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonBase.png
+c000000004B93C91D00000000000002CA
+t1267976477
+s714
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonParser.html
+c000000004B93C91D0000000000001E84
+t1267976477
+s7812
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonParser.png
+c000000004B93C91D000000000000022C
+t1267976477
+s556
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.html
+c000000004B93C91D0000000000001EAA
+t1267976477
+s7850
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.png
+c000000004B93C91D0000000000000230
+t1267976477
+s560
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/pages.html
+c000000004B93C91D000000000000046F
+t1267976477
+s1135
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p-members.html
+c000000004B93C91D00000000000006C0
+t1267976477
+s1728
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.html
+c000000004B93C91D0000000000000F91
+t1267976477
+s3985
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.png
+c000000004B93C91D0000000000000238
+t1267976477
+s568
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p-members.html
+c000000004B93C91D0000000000000897
+t1267976477
+s2199
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.html
+c000000004B93C91D00000000000018C7
+t1267976477
+s6343
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.png
+c000000004B93C91D000000000000022D
+t1267976477
+s557
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_b.gif
+c000000004B93C91D0000000000000023
+t1267976477
+s35
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_l.gif
+c000000004B93C91D00000000000002C2
+t1267976477
+s706
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_r.gif
+c000000004B93C91D0000000000000A19
+t1267976477
+s2585
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tabs.css
+c000000004B93C91D000000000000072E
+t1267976477
+s1838
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Install.rtf
+c000000004B93BE8300000000000014A6
+t1267973763
+s5286
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON.framework/JSON
+c000000004B93C90D000000000001D0BC
+t1267976461
+s118972
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/README
+c000000004B93BE830000000000000185
+t1267973763
+s389
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/SDKSettings.plist
+c000000004B93C91000000000000005DE
+t1267976464
+s1502
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/usr/local/lib/libjson.a
+c000000004B93C90A000000000001CF40
+t1267976458
+s118592
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/SDKSettings.plist
+c000000004B93C913000000000000047F
+t1267976467
+s1151
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/usr/local/lib/libjson.a
+c000000004B93C90E0000000000018160
+t1267976462
+s98656
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/macosx.sdk/usr/local/lib/libjson.a
+c000000004B93C91200000000000433FC
+t1267976466
+s275452
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.h
+c000000004BFE0B750000000000000119
+t1274940277
+s281
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m
+c000000004BFE0B8400000000000005B3
+t1274940292
+s1459
+i"contributeForm.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib
+c000000004BFE0FBC000000000000701A
+t1274941372
+s28698
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib
+c000000004BFE04E10000000000001BBE
+t1274938593
+s7102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.h
+c000000004BCAAD1700000000000001CE
+t1271573783
+s462
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m
+c000000004BDE46040000000000000294
+t1272858116
+s660
+i"twssAppDelegate.h"
+i"twssViewController.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.h
+c000000004C049F9200000000000001FB
+t1275371410
+s507
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m
+c000000004C04A39D00000000000023B5
+t1275372445
+s9141
+i<stdlib.h>
+i"twssViewController.h"
+i"contributeForm.h"
+i"JSON.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Default.png
+c000000004BE75D0A0000000000030609
+t1273453834
+s198153
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib
+c000000004BDE43B80000000000004DDB
+t1272857528
+s19931
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib
+c000000004BE39CA600000000000051D8
+t1273207974
+s20952
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png
+c000000004C0214EC0000000000000282
+t1275204844
+s642
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app
+t1275372447
+s442
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app.dSYM
+t1275372447
+s102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Changes.rtf
+t1275371540
+s11561
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Credits.rtf
+t1275371540
+s3331
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Default.png
+t1275372070
+s198153
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Documentation.html
+t1275371540
+s426
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Info.plist
+t1275372070
+s844
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Install.rtf
+t1275371540
+s5286
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/JSON_8h_source.html
+t1275371540
+s4566
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/MainWindow.nib
+t1275372070
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/MainWindowiPhone.nib
+t1273208442
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/NSObject_09SBJSON_8h_source.html
+t1275371540
+s4914
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/NSString_09SBJSON_8h_source.html
+t1275371540
+s4866
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/PkgInfo
+t1275372070
+s8
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/README
+t1275371540
+s389
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SBJSON_8h_source.html
+t1275371540
+s7017
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SBJsonBase_8h_source.html
+t1275371540
+s6520
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SBJsonParser_8h_source.html
+t1275371540
+s6311
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SBJsonWriter_8h_source.html
+t1275371540
+s6955
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SDKSettings.plist
+t1275371540
+s671
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said
+t1275372447
+s53512
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/add_icon.png
+t1275372070
+s642
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/annotated.html
+t1275371540
+s2985
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classNSObject_07NSObject__SBJSON_08-members.html
+t1275371540
+s2070
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classNSObject_07SBProxyForJson_08-members.html
+t1275371540
+s1498
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classNSString_07NSString__SBJSON_08-members.html
+t1275371540
+s2066
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classSBJSON-members.html
+t1275371540
+s4459
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classSBJsonBase-members.html
+t1275371540
+s2124
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classSBJsonParser-members.html
+t1275371540
+s2379
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classSBJsonWriter-members.html
+t1275371540
+s2379
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/classes.html
+t1275371540
+s2869
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/contributeForm.nib
+t1275372071
+s2342
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/contributeView.nib
+t1275372070
+s851
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/deprecated.html
+t1275371540
+s2869
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/doxygen.css
+t1275371540
+s5701
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/doxygen.png
+t1275371540
+s1281
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/files.html
+t1275371540
+s2206
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/functions.html
+t1275371540
+s3736
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/functions_func.html
+t1275371540
+s3180
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/functions_prop.html
+t1275371540
+s2064
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/hierarchy.html
+t1275371540
+s2403
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/index.html
+t1275371540
+s1804
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceNSObject_07NSObject__SBJSON_08.html
+t1275371540
+s4800
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceNSObject_07SBProxyForJson_08.html
+t1275371540
+s2435
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceNSString_07NSString__SBJSON_08.html
+t1275371540
+s4495
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJSON.html
+t1275371540
+s23989
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJSON.png
+t1275371540
+s722
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJsonBase.html
+t1275371540
+s4636
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJsonBase.png
+t1275371540
+s714
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJsonParser.html
+t1275371540
+s7812
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJsonParser.png
+t1275371540
+s556
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJsonWriter.html
+t1275371540
+s7850
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/interfaceSBJsonWriter.png
+t1275371540
+s560
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/pages.html
+t1275371540
+s1135
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p-members.html
+t1275371540
+s1728
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p.html
+t1275371540
+s3985
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p.png
+t1275371540
+s568
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p-members.html
+t1275371540
+s2199
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p.html
+t1275371540
+s6343
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p.png
+t1275371540
+s557
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/tab_b.gif
+t1275371540
+s35
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/tab_l.gif
+t1275371540
+s706
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/tab_r.gif
+t1275371540
+s2585
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/tabs.css
+t1275371540
+s1838
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/twssViewController.nib
+t1275372070
+s2081
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/twssViewControlleriPhone.nib
+t1273208442
+s1410
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/twss_bg.png
+t1275372070
+s194881
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/twss_icon.png
+t1275372070
+s4120
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app
+t1271696846
+s272
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app.dSYM
+t1271696837
+s102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/Info.plist
+t1271575331
+s760
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/MainWindow.nib
+t1271573811
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/PkgInfo
+t1271573810
+s8
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss
+t1271577173
+s20084
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twssViewController.nib
+t1271577118
+s1730
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss_bg.png
+t1271575131
+s194881
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o
+t1275372072
+s7744
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o
+t1275372072
+s7764
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o
+t1275372072
+s16764
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o
+t1275372072
+s12108
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o
+t1275372072
+s29824
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o
+t1275372072
+s22560
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/She Said.LinkFileList
+c000000004C04A22600000000000004D9
+t1275372070
+s1241
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/contributeForm.o
+t1275372072
+s35304
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/main.o
+t1275372071
+s5944
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twss.LinkFileList
+c000000004BCABA1E00000000000001F2
+t1271577118
+s498
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssAppDelegate.o
+t1275372071
+s42420
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssTextLabel.o
+t1271577173
+s11080
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssViewController.o
+t1275372447
+s43496
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/main.m
+c000000004BCAAD170000000000000167
+t1271573783
+s359
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.h
+c000000004BCABA2B000000000000014D
+t1271577131
+s333
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m
+c000000004BCABA53000000000000016C
+t1271577171
+s364
+i"twssTextLabel.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib
+c000000004C0219510000000000005C02
+t1275205969
+s23554
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib
+c000000004BE39DC20000000000004F90
+t1273208258
+s20368
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch
+c000000004BCAAD1700000000000000B1
+t1271573783
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png
+c000000004BCAB0FC000000000002F941
+t1271574780
+s194881
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twss_icon.png
+c000000004BDE59090000000000001018
+t1272862985
+s4120
+
+N/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch.gch
+t1275372071
+s13805456
+
+N/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch.gch
+t1273208637
+s13805456
+
+N/var/folders/wP/wPdzCkdYEK0IKqpZveCJbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch.gch
+t2
+s0
+
+Ntwss-Info.plist
+c000000004BE3AD0C00000000000004F4
+t1273212172
+s1268
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297065246#297065246#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064341.574466
+e297064341.643431
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.m297064341#297064341#0(0"0(0#0#81"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.m4300911832#1945"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSObject+SBJSON.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064871.996369
+e297064872.142807
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m297064871#297064872#0(0"0(0#0#69"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m4300911832#1933"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSObject+SBJSON.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064341.575619
+e297064341.670800
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.m297064341#297064341#0(0"0(0#0#81"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.m4300911832#1945"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/NSString+SBJSON.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064872.104756
+e297064872.230259
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m297064872#297064872#0(0"0(0#0#69"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m4300911832#1933"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/NSString+SBJSON.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064341.643542
+e297064341.787317
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.m297064341#297064341#0(0"0(0#0#72"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.m4300911832#1927"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJSON.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064872.142922
+e297064872.278362
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m297064872#297064872#0(0"0(0#0#60"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m4300911832#1915"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJSON.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJSON.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064341.670932
+e297064341.739720
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.m297064341#297064341#0(0"0(0#0#76"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.m4300911832#1935"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonBase.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064872.230373
+e297064872.354708
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m297064872#297064872#0(0"0(0#0#64"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m4300911832#1923"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonBase.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064341.739837
+e297064341.883896
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.m297064341#297064341#0(0"0(0#0#78"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.m4300911832#1939"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonParser.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064872.278475
+e297064872.454847
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m297064872#297064872#0(0"0(0#0#66"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m4300911832#1927"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonParser.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064341.787574
+e297064341.887580
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.m297064341#297064341#0(0"0(0#0#78"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.m4300911832#1939"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/JSON/SBJsonWriter.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064872.354823
+e297064872.455462
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m297064872#297064872#0(0"0(0#0#66"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m4300911832#1927"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON/SBJsonWriter.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/contributeForm.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064871.899169
+e297064872.104637
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/contributeForm.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m297064871#297064872#0(0"0(0#0#63"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m4300911832#1926"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/contributeForm.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/main.o "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064871.808127
+e297064871.872333
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/main.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/dawnerd/Dropbox/xcode apps/twss/main.m297064871#297064871#0(0"0(0#0#45"/Users/dawnerd/Dropbox/xcode apps/twss/main.m4300911832#1898"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssAppDelegate.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064871.809588
+e297064871.898935
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssAppDelegate.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m297064871#297064871#0(0"0(0#0#64"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m4300911832#1928"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssAppDelegate.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssTextLabel.o "/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293269973.454743
+e293269973.567833
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssTextLabel.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowColor' requires method '-shadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowColor' requires the method 'setShadowColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowOffset' requires method '-shadowOffset' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowOffset' requires the method 'setShadowOffset:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'lineBreakMode' requires method '-lineBreakMode' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'lineBreakMode' requires the method 'setLineBreakMode:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'highlightedTextColor' requires method '-highlightedTextColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'highlightedTextColor' requires the method 'setHighlightedTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'enabled' requires the method 'setEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'numberOfLines' requires method '-numberOfLines' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'numberOfLines' requires the method 'setNumberOfLines:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'baselineAdjustment' requires method '-baselineAdjustment' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'baselineAdjustment' requires the method 'setBaselineAdjustment:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: incomplete implementation of class 'UILabel'
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-drawTextInRect:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-textRectForBounds:limitedToNumberOfLines:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: incomplete implementation of class 'UILabel'
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-initWithCoder:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-encodeWithCoder:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: class 'UILabel' does not fully implement the 'NSCoding' protocol
+lSLF07#2@62"Compile /Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269973#293269973#0(6453"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowColor' requires method '-shadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowColor' requires the method 'setShadowColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowOffset' requires method '-shadowOffset' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'shadowOffset' requires the method 'setShadowOffset:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'lineBreakMode' requires method '-lineBreakMode' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'lineBreakMode' requires the method 'setLineBreakMode:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'highlightedTextColor' requires method '-highlightedTextColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'highlightedTextColor' requires the method 'setHighlightedTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'enabled' requires the method 'setEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'numberOfLines' requires method '-numberOfLines' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'numberOfLines' requires the method 'setNumberOfLines:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'baselineAdjustment' requires method '-baselineAdjustment' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: property 'baselineAdjustment' requires the method 'setBaselineAdjustment:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: incomplete implementation of class 'UILabel'/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-drawTextInRect:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-textRectForBounds:limitedToNumberOfLines:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: incomplete implementation of class 'UILabel'/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-initWithCoder:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: method definition for '-encodeWithCoder:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:19: warning: class 'UILabel' does not fully implement the 'NSCoding' protocol34(22@116"Property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#0#185#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@123"Property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#185#192#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@116"Property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#377#185#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@123"Property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#562#192#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@126"Property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#754#195#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@133"Property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#949#202#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@130"Property 'shadowColor' requires method '-shadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#1151#199#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@137"Property 'shadowColor' requires the method 'setShadowColor:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#1350#206#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@132"Property 'shadowOffset' requires method '-shadowOffset' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#1556#201#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@139"Property 'shadowOffset' requires the method 'setShadowOffset:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#1757#208#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@134"Property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#1965#203#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@141"Property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#2168#210#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@134"Property 'lineBreakMode' requires method '-lineBreakMode' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#2378#203#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@141"Property 'lineBreakMode' requires the method 'setLineBreakMode:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#2581#210#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@148"Property 'highlightedTextColor' requires method '-highlightedTextColor' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#2791#217#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@155"Property 'highlightedTextColor' requires the method 'setHighlightedTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#3008#224#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@137"Property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#3232#206#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@159"Property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#3438#228#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@129"Property 'enabled' requires the method 'setEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#3666#198#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@134"Property 'numberOfLines' requires method '-numberOfLines' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#3864#203#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@141"Property 'numberOfLines' requires the method 'setNumberOfLines:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#4067#210#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@158"Property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#4277#227#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@165"Property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#4504#234#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@138"Property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#4738#207#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@145"Property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#4945#214#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@144"Property 'baselineAdjustment' requires method '-baselineAdjustment' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#5159#213#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@151"Property 'baselineAdjustment' requires the method 'setBaselineAdjustment:' to be defined - use @synthesize, @dynamic or provide a method implementation293269973#5372#220#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#0"0(22@44"Incomplete implementation of class 'UILabel'293269973#5592#113#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-drawTextInRect:' not found293269973#5705#119#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#35"method definition for '*' not found0(22@76"Method definition for '-textRectForBounds:limitedToNumberOfLines:' not found293269973#5824#145#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#35"method definition for '*' not found0(22@44"Incomplete implementation of class 'UILabel'293269973#5969#113#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found293269973#6082#118#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found293269973#6200#120#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#35"method definition for '*' not found0(22@64"Class 'UILabel' does not fully implement the 'NSCoding' protocol293269973#6320#133#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m293269971#19#0#19#0#51"class '*' does not fully implement the '*' protocol0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m4300911832#1837"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/twss-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/twss-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/twss-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/twss-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssTextLabel.o"0#
+
+CCompileC build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssViewController.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297065246.928414
+e297065247.069458
+r1
+xCompileC
+xbuild/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssViewController.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m297065246#297065247#0(0"0(0#0#67"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m4300911832#1934"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twssViewController.o"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib"
+s297064870.682433
+e297064871.083394
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib
+lSLF07#2@37"CompileXIB Classes/contributeForm.xib297064870#297064871#0(0"0(0#0#65"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib4300911832#503"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/contributeForm.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib"
+s297064870.636829
+e297064870.947960
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib
+lSLF07#2@37"CompileXIB Classes/contributeView.xib297064870#297064870#0(0"0(0#0#65"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib4300911832#503"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/contributeView.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib"
+s297064870.084914
+e297064870.682333
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297064870#297064870#0(0"0(0#0#53"/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib4300911832#487"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/MainWindow.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib"
+s294901241.818706
+e294901242.183890
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib
+lSLF07#2@31"CompileXIB MainWindowiPhone.xib294901241#294901242#0(0"0(0#0#59"/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib4300911832#499"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/MainWindowiPhone.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib"
+s297064870.092087
+e297064870.627759
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib
+lSLF07#2@33"CompileXIB twssViewController.xib297064870#297064870#0(0"0(0#0#61"/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib4300911832#503"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/twssViewController.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib"
+s294901241.921097
+e294901242.259158
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib
+lSLF07#2@39"CompileXIB twssViewControlleriPhone.xib294901241#294901242#0(0"0(0#0#67"/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib4300911832#515"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/twssViewControlleriPhone.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib"0#
+
+CCopyPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SDKSettings.plist" "Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/SDKSettings.plist"
+s297064340.587369
+e297064340.637241
+r1
+xCopyPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SDKSettings.plist
+xClasses/JSON iPhone/SDKs/JSON/iphoneos.sdk/SDKSettings.plist
+lSLF07#2@65"Copy Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/SDKSettings.plist297064340#297064340#0(0"0(0#0#99"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/SDKSettings.plist4300911832#442"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 "Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/SDKSettings.plist" --outdir "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCopyPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SDKSettings.plist" "Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/SDKSettings.plist"
+s297064340.605101
+e297064340.637521
+r1
+xCopyPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/SDKSettings.plist
+xClasses/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/SDKSettings.plist
+lSLF07#2@72"Copy Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/SDKSettings.plist297064340#297064340#0(0"0(0#0#106"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/SDKSettings.plist4300911832#449"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 "Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/SDKSettings.plist" --outdir "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/Changes.rtf" "Classes/JSON iPhone/Changes.rtf"
+s297064340.087452
+e297064340.155605
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/Changes.rtf
+xClasses/JSON iPhone/Changes.rtf
+lSLF07#2@36"Copy Classes/JSON iPhone/Changes.rtf297064340#297064340#0(0"0(0#0#70"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Changes.rtf4300911832#482"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Changes.rtf" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/Credits.rtf" "Classes/JSON iPhone/Credits.rtf"
+s297064340.095490
+e297064340.155775
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/Credits.rtf
+xClasses/JSON iPhone/Credits.rtf
+lSLF07#2@36"Copy Classes/JSON iPhone/Credits.rtf297064340#297064340#0(0"0(0#0#70"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Credits.rtf4300911832#482"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Credits.rtf" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/Default.png" Default.png
+s297064870.634916
+e297064870.642418
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png297064870#297064870#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/Default.png4300911832#462"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Default.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/Documentation.html" "Classes/JSON iPhone/Documentation.html"
+s297064340.573395
+e297064340.593075
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/Documentation.html
+xClasses/JSON iPhone/Documentation.html
+lSLF07#2@43"Copy Classes/JSON iPhone/Documentation.html297064340#297064340#0(0"0(0#0#77"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation.html4300911832#489"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/Install.rtf" "Classes/JSON iPhone/Install.rtf"
+s297064340.580624
+e297064340.593186
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/Install.rtf
+xClasses/JSON iPhone/Install.rtf
+lSLF07#2@36"Copy Classes/JSON iPhone/Install.rtf297064340#297064340#0(0"0(0#0#70"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Install.rtf4300911832#482"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Install.rtf" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/JSON_8h_source.html" "Classes/JSON iPhone/Documentation/JSON_8h_source.html"
+s297064340.311143
+e297064340.321816
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/JSON_8h_source.html
+xClasses/JSON iPhone/Documentation/JSON_8h_source.html
+lSLF07#2@58"Copy Classes/JSON iPhone/Documentation/JSON_8h_source.html297064340#297064340#0(0"0(0#0#92"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/JSON_8h_source.html4300911832#504"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/JSON_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/NSObject_09SBJSON_8h_source.html" "Classes/JSON iPhone/Documentation/NSObject_09SBJSON_8h_source.html"
+s297064340.313929
+e297064340.504627
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/NSObject_09SBJSON_8h_source.html
+xClasses/JSON iPhone/Documentation/NSObject_09SBJSON_8h_source.html
+lSLF07#2@71"Copy Classes/JSON iPhone/Documentation/NSObject_09SBJSON_8h_source.html297064340#297064340#0(0"0(0#0#105"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/NSObject_09SBJSON_8h_source.html4300911832#517"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/NSObject_09SBJSON_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/NSString_09SBJSON_8h_source.html" "Classes/JSON iPhone/Documentation/NSString_09SBJSON_8h_source.html"
+s297064340.321899
+e297064340.503851
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/NSString_09SBJSON_8h_source.html
+xClasses/JSON iPhone/Documentation/NSString_09SBJSON_8h_source.html
+lSLF07#2@71"Copy Classes/JSON iPhone/Documentation/NSString_09SBJSON_8h_source.html297064340#297064340#0(0"0(0#0#105"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/NSString_09SBJSON_8h_source.html4300911832#517"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/NSString_09SBJSON_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/README" "Classes/JSON iPhone/README"
+s297064340.583607
+e297064340.604994
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/README
+xClasses/JSON iPhone/README
+lSLF07#2@31"Copy Classes/JSON iPhone/README297064340#297064340#0(0"0(0#0#65"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/README4300911832#477"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/README" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/SBJSON_8h_source.html" "Classes/JSON iPhone/Documentation/SBJSON_8h_source.html"
+s297064340.504711
+e297064340.569789
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/SBJSON_8h_source.html
+xClasses/JSON iPhone/Documentation/SBJSON_8h_source.html
+lSLF07#2@60"Copy Classes/JSON iPhone/Documentation/SBJSON_8h_source.html297064340#297064340#0(0"0(0#0#94"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJSON_8h_source.html4300911832#506"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJSON_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/SBJsonBase_8h_source.html" "Classes/JSON iPhone/Documentation/SBJsonBase_8h_source.html"
+s297064340.518535
+e297064340.569911
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/SBJsonBase_8h_source.html
+xClasses/JSON iPhone/Documentation/SBJsonBase_8h_source.html
+lSLF07#2@64"Copy Classes/JSON iPhone/Documentation/SBJsonBase_8h_source.html297064340#297064340#0(0"0(0#0#98"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonBase_8h_source.html4300911832#510"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonBase_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/SBJsonParser_8h_source.html" "Classes/JSON iPhone/Documentation/SBJsonParser_8h_source.html"
+s297064340.527800
+e297064340.570019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/SBJsonParser_8h_source.html
+xClasses/JSON iPhone/Documentation/SBJsonParser_8h_source.html
+lSLF07#2@66"Copy Classes/JSON iPhone/Documentation/SBJsonParser_8h_source.html297064340#297064340#0(0"0(0#0#100"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonParser_8h_source.html4300911832#512"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonParser_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/SBJsonWriter_8h_source.html" "Classes/JSON iPhone/Documentation/SBJsonWriter_8h_source.html"
+s297064340.536533
+e297064340.570125
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/SBJsonWriter_8h_source.html
+xClasses/JSON iPhone/Documentation/SBJsonWriter_8h_source.html
+lSLF07#2@66"Copy Classes/JSON iPhone/Documentation/SBJsonWriter_8h_source.html297064340#297064340#0(0"0(0#0#100"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonWriter_8h_source.html4300911832#512"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/SBJsonWriter_8h_source.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/add_icon.png" add_icon.png
+s297064870.948058
+e297064870.957900
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/add_icon.png
+xadd_icon.png
+lSLF07#2@17"Copy add_icon.png297064870#297064870#0(0"0(0#0#51"/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png4300911832#463"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/annotated.html" "Classes/JSON iPhone/Documentation/annotated.html"
+s297064340.100956
+e297064340.155889
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/annotated.html
+xClasses/JSON iPhone/Documentation/annotated.html
+lSLF07#2@53"Copy Classes/JSON iPhone/Documentation/annotated.html297064340#297064340#0(0"0(0#0#87"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/annotated.html4300911832#499"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/annotated.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classNSObject_07NSObject__SBJSON_08-members.html" "Classes/JSON iPhone/Documentation/classNSObject_07NSObject__SBJSON_08-members.html"
+s297064340.120718
+e297064340.156115
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classNSObject_07NSObject__SBJSON_08-members.html
+xClasses/JSON iPhone/Documentation/classNSObject_07NSObject__SBJSON_08-members.html
+lSLF07#2@87"Copy Classes/JSON iPhone/Documentation/classNSObject_07NSObject__SBJSON_08-members.html297064340#297064340#0(0"0(0#0#121"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSObject_07NSObject__SBJSON_08-members.html4300911832#533"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSObject_07NSObject__SBJSON_08-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classNSObject_07SBProxyForJson_08-members.html" "Classes/JSON iPhone/Documentation/classNSObject_07SBProxyForJson_08-members.html"
+s297064340.127118
+e297064340.156227
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classNSObject_07SBProxyForJson_08-members.html
+xClasses/JSON iPhone/Documentation/classNSObject_07SBProxyForJson_08-members.html
+lSLF07#2@85"Copy Classes/JSON iPhone/Documentation/classNSObject_07SBProxyForJson_08-members.html297064340#297064340#0(0"0(0#0#119"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSObject_07SBProxyForJson_08-members.html4300911832#531"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSObject_07SBProxyForJson_08-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classNSString_07NSString__SBJSON_08-members.html" "Classes/JSON iPhone/Documentation/classNSString_07NSString__SBJSON_08-members.html"
+s297064340.135047
+e297064340.156344
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classNSString_07NSString__SBJSON_08-members.html
+xClasses/JSON iPhone/Documentation/classNSString_07NSString__SBJSON_08-members.html
+lSLF07#2@87"Copy Classes/JSON iPhone/Documentation/classNSString_07NSString__SBJSON_08-members.html297064340#297064340#0(0"0(0#0#121"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSString_07NSString__SBJSON_08-members.html4300911832#533"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classNSString_07NSString__SBJSON_08-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classSBJSON-members.html" "Classes/JSON iPhone/Documentation/classSBJSON-members.html"
+s297064340.149642
+e297064340.199408
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classSBJSON-members.html
+xClasses/JSON iPhone/Documentation/classSBJSON-members.html
+lSLF07#2@63"Copy Classes/JSON iPhone/Documentation/classSBJSON-members.html297064340#297064340#0(0"0(0#0#97"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJSON-members.html4300911832#509"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJSON-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classSBJsonBase-members.html" "Classes/JSON iPhone/Documentation/classSBJsonBase-members.html"
+s297064340.156431
+e297064340.197990
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classSBJsonBase-members.html
+xClasses/JSON iPhone/Documentation/classSBJsonBase-members.html
+lSLF07#2@67"Copy Classes/JSON iPhone/Documentation/classSBJsonBase-members.html297064340#297064340#0(0"0(0#0#101"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonBase-members.html4300911832#513"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonBase-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classSBJsonParser-members.html" "Classes/JSON iPhone/Documentation/classSBJsonParser-members.html"
+s297064340.160466
+e297064340.198544
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classSBJsonParser-members.html
+xClasses/JSON iPhone/Documentation/classSBJsonParser-members.html
+lSLF07#2@69"Copy Classes/JSON iPhone/Documentation/classSBJsonParser-members.html297064340#297064340#0(0"0(0#0#103"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonParser-members.html4300911832#515"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonParser-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classSBJsonWriter-members.html" "Classes/JSON iPhone/Documentation/classSBJsonWriter-members.html"
+s297064340.168355
+e297064340.198714
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classSBJsonWriter-members.html
+xClasses/JSON iPhone/Documentation/classSBJsonWriter-members.html
+lSLF07#2@69"Copy Classes/JSON iPhone/Documentation/classSBJsonWriter-members.html297064340#297064340#0(0"0(0#0#103"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonWriter-members.html4300911832#515"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classSBJsonWriter-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/classes.html" "Classes/JSON iPhone/Documentation/classes.html"
+s297064340.107158
+e297064340.156002
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/classes.html
+xClasses/JSON iPhone/Documentation/classes.html
+lSLF07#2@51"Copy Classes/JSON iPhone/Documentation/classes.html297064340#297064340#0(0"0(0#0#85"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classes.html4300911832#497"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/classes.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/deprecated.html" "Classes/JSON iPhone/Documentation/deprecated.html"
+s297064340.173731
+e297064340.198838
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/deprecated.html
+xClasses/JSON iPhone/Documentation/deprecated.html
+lSLF07#2@54"Copy Classes/JSON iPhone/Documentation/deprecated.html297064340#297064340#0(0"0(0#0#88"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/deprecated.html4300911832#500"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/deprecated.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/doxygen.css" "Classes/JSON iPhone/Documentation/doxygen.css"
+s297064340.178462
+e297064340.199006
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/doxygen.css
+xClasses/JSON iPhone/Documentation/doxygen.css
+lSLF07#2@50"Copy Classes/JSON iPhone/Documentation/doxygen.css297064340#297064340#0(0"0(0#0#84"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/doxygen.css4300911832#496"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/doxygen.css" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/doxygen.png" "Classes/JSON iPhone/Documentation/doxygen.png"
+s297064340.180733
+e297064340.199158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/doxygen.png
+xClasses/JSON iPhone/Documentation/doxygen.png
+lSLF07#2@50"Copy Classes/JSON iPhone/Documentation/doxygen.png297064340#297064340#0(0"0(0#0#84"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/doxygen.png4300911832#496"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/doxygen.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/files.html" "Classes/JSON iPhone/Documentation/files.html"
+s297064340.185911
+e297064340.284805
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/files.html
+xClasses/JSON iPhone/Documentation/files.html
+lSLF07#2@49"Copy Classes/JSON iPhone/Documentation/files.html297064340#297064340#0(0"0(0#0#83"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/files.html4300911832#495"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/files.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/functions.html" "Classes/JSON iPhone/Documentation/functions.html"
+s297064340.191207
+e297064340.199280
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/functions.html
+xClasses/JSON iPhone/Documentation/functions.html
+lSLF07#2@53"Copy Classes/JSON iPhone/Documentation/functions.html297064340#297064340#0(0"0(0#0#87"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions.html4300911832#499"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/functions_func.html" "Classes/JSON iPhone/Documentation/functions_func.html"
+s297064340.199561
+e297064340.283764
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/functions_func.html
+xClasses/JSON iPhone/Documentation/functions_func.html
+lSLF07#2@58"Copy Classes/JSON iPhone/Documentation/functions_func.html297064340#297064340#0(0"0(0#0#92"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions_func.html4300911832#504"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions_func.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/functions_prop.html" "Classes/JSON iPhone/Documentation/functions_prop.html"
+s297064340.205360
+e297064340.283910
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/functions_prop.html
+xClasses/JSON iPhone/Documentation/functions_prop.html
+lSLF07#2@58"Copy Classes/JSON iPhone/Documentation/functions_prop.html297064340#297064340#0(0"0(0#0#92"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions_prop.html4300911832#504"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/functions_prop.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/hierarchy.html" "Classes/JSON iPhone/Documentation/hierarchy.html"
+s297064340.213882
+e297064340.284037
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/hierarchy.html
+xClasses/JSON iPhone/Documentation/hierarchy.html
+lSLF07#2@53"Copy Classes/JSON iPhone/Documentation/hierarchy.html297064340#297064340#0(0"0(0#0#87"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/hierarchy.html4300911832#499"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/hierarchy.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/index.html" "Classes/JSON iPhone/Documentation/index.html"
+s297064340.226632
+e297064340.284160
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/index.html
+xClasses/JSON iPhone/Documentation/index.html
+lSLF07#2@49"Copy Classes/JSON iPhone/Documentation/index.html297064340#297064340#0(0"0(0#0#83"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/index.html4300911832#495"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/index.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceNSObject_07NSObject__SBJSON_08.html" "Classes/JSON iPhone/Documentation/interfaceNSObject_07NSObject__SBJSON_08.html"
+s297064340.242946
+e297064340.284534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceNSObject_07NSObject__SBJSON_08.html
+xClasses/JSON iPhone/Documentation/interfaceNSObject_07NSObject__SBJSON_08.html
+lSLF07#2@83"Copy Classes/JSON iPhone/Documentation/interfaceNSObject_07NSObject__SBJSON_08.html297064340#297064340#0(0"0(0#0#117"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSObject_07NSObject__SBJSON_08.html4300911832#529"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSObject_07NSObject__SBJSON_08.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceNSObject_07SBProxyForJson_08.html" "Classes/JSON iPhone/Documentation/interfaceNSObject_07SBProxyForJson_08.html"
+s297064340.251857
+e297064340.284669
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceNSObject_07SBProxyForJson_08.html
+xClasses/JSON iPhone/Documentation/interfaceNSObject_07SBProxyForJson_08.html
+lSLF07#2@81"Copy Classes/JSON iPhone/Documentation/interfaceNSObject_07SBProxyForJson_08.html297064340#297064340#0(0"0(0#0#115"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSObject_07SBProxyForJson_08.html4300911832#527"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSObject_07SBProxyForJson_08.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceNSString_07NSString__SBJSON_08.html" "Classes/JSON iPhone/Documentation/interfaceNSString_07NSString__SBJSON_08.html"
+s297064340.253374
+e297064340.284929
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceNSString_07NSString__SBJSON_08.html
+xClasses/JSON iPhone/Documentation/interfaceNSString_07NSString__SBJSON_08.html
+lSLF07#2@83"Copy Classes/JSON iPhone/Documentation/interfaceNSString_07NSString__SBJSON_08.html297064340#297064340#0(0"0(0#0#117"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSString_07NSString__SBJSON_08.html4300911832#529"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceNSString_07NSString__SBJSON_08.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJSON.html" "Classes/JSON iPhone/Documentation/interfaceSBJSON.html"
+s297064340.278392
+e297064340.285054
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJSON.html
+xClasses/JSON iPhone/Documentation/interfaceSBJSON.html
+lSLF07#2@59"Copy Classes/JSON iPhone/Documentation/interfaceSBJSON.html297064340#297064340#0(0"0(0#0#93"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJSON.html4300911832#505"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJSON.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJSON.png" "Classes/JSON iPhone/Documentation/interfaceSBJSON.png"
+s297064340.285131
+e297064340.320879
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJSON.png
+xClasses/JSON iPhone/Documentation/interfaceSBJSON.png
+lSLF07#2@58"Copy Classes/JSON iPhone/Documentation/interfaceSBJSON.png297064340#297064340#0(0"0(0#0#92"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJSON.png4300911832#504"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJSON.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJsonBase.html" "Classes/JSON iPhone/Documentation/interfaceSBJsonBase.html"
+s297064340.289153
+e297064340.321164
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJsonBase.html
+xClasses/JSON iPhone/Documentation/interfaceSBJsonBase.html
+lSLF07#2@63"Copy Classes/JSON iPhone/Documentation/interfaceSBJsonBase.html297064340#297064340#0(0"0(0#0#97"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonBase.html4300911832#509"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonBase.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJsonBase.png" "Classes/JSON iPhone/Documentation/interfaceSBJsonBase.png"
+s297064340.291433
+e297064340.321280
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJsonBase.png
+xClasses/JSON iPhone/Documentation/interfaceSBJsonBase.png
+lSLF07#2@62"Copy Classes/JSON iPhone/Documentation/interfaceSBJsonBase.png297064340#297064340#0(0"0(0#0#96"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonBase.png4300911832#508"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonBase.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJsonParser.html" "Classes/JSON iPhone/Documentation/interfaceSBJsonParser.html"
+s297064340.299474
+e297064340.321389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJsonParser.html
+xClasses/JSON iPhone/Documentation/interfaceSBJsonParser.html
+lSLF07#2@65"Copy Classes/JSON iPhone/Documentation/interfaceSBJsonParser.html297064340#297064340#0(0"0(0#0#99"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonParser.html4300911832#511"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonParser.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJsonParser.png" "Classes/JSON iPhone/Documentation/interfaceSBJsonParser.png"
+s297064340.301063
+e297064340.321496
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJsonParser.png
+xClasses/JSON iPhone/Documentation/interfaceSBJsonParser.png
+lSLF07#2@64"Copy Classes/JSON iPhone/Documentation/interfaceSBJsonParser.png297064340#297064340#0(0"0(0#0#98"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonParser.png4300911832#510"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonParser.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJsonWriter.html" "Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.html"
+s297064340.306581
+e297064340.321604
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJsonWriter.html
+xClasses/JSON iPhone/Documentation/interfaceSBJsonWriter.html
+lSLF07#2@65"Copy Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.html297064340#297064340#0(0"0(0#0#99"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.html4300911832#511"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/interfaceSBJsonWriter.png" "Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.png"
+s297064340.308029
+e297064340.321709
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/interfaceSBJsonWriter.png
+xClasses/JSON iPhone/Documentation/interfaceSBJsonWriter.png
+lSLF07#2@64"Copy Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.png297064340#297064340#0(0"0(0#0#98"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.png4300911832#510"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/interfaceSBJsonWriter.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/pages.html" "Classes/JSON iPhone/Documentation/pages.html"
+s297064340.327352
+e297064340.503975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/pages.html
+xClasses/JSON iPhone/Documentation/pages.html
+lSLF07#2@49"Copy Classes/JSON iPhone/Documentation/pages.html297064340#297064340#0(0"0(0#0#83"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/pages.html4300911832#495"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/pages.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p-members.html" "Classes/JSON iPhone/Documentation/protocolSBJsonParser-p-members.html"
+s297064340.332513
+e297064340.504086
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p-members.html
+xClasses/JSON iPhone/Documentation/protocolSBJsonParser-p-members.html
+lSLF07#2@74"Copy Classes/JSON iPhone/Documentation/protocolSBJsonParser-p-members.html297064340#297064340#0(0"0(0#0#108"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p-members.html4300911832#520"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p.html" "Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.html"
+s297064340.333508
+e297064340.504197
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p.html
+xClasses/JSON iPhone/Documentation/protocolSBJsonParser-p.html
+lSLF07#2@66"Copy Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.html297064340#297064340#0(0"0(0#0#100"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.html4300911832#512"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p.png" "Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.png"
+s297064340.343248
+e297064340.504301
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/protocolSBJsonParser-p.png
+xClasses/JSON iPhone/Documentation/protocolSBJsonParser-p.png
+lSLF07#2@65"Copy Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.png297064340#297064340#0(0"0(0#0#99"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.png4300911832#511"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonParser-p.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p-members.html" "Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p-members.html"
+s297064340.366433
+e297064340.504409
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p-members.html
+xClasses/JSON iPhone/Documentation/protocolSBJsonWriter-p-members.html
+lSLF07#2@74"Copy Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p-members.html297064340#297064340#0(0"0(0#0#108"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p-members.html4300911832#520"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p-members.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p.html" "Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.html"
+s297064340.373425
+e297064340.504517
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p.html
+xClasses/JSON iPhone/Documentation/protocolSBJsonWriter-p.html
+lSLF07#2@66"Copy Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.html297064340#297064340#0(0"0(0#0#100"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.html4300911832#512"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.html" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p.png" "Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.png"
+s297064340.482830
+e297064340.573289
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/protocolSBJsonWriter-p.png
+xClasses/JSON iPhone/Documentation/protocolSBJsonWriter-p.png
+lSLF07#2@65"Copy Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.png297064340#297064340#0(0"0(0#0#99"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.png4300911832#511"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/protocolSBJsonWriter-p.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/tab_b.gif" "Classes/JSON iPhone/Documentation/tab_b.gif"
+s297064340.545589
+e297064340.570231
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/tab_b.gif
+xClasses/JSON iPhone/Documentation/tab_b.gif
+lSLF07#2@48"Copy Classes/JSON iPhone/Documentation/tab_b.gif297064340#297064340#0(0"0(0#0#82"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_b.gif4300911832#494"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_b.gif" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/tab_l.gif" "Classes/JSON iPhone/Documentation/tab_l.gif"
+s297064340.557357
+e297064340.593294
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/tab_l.gif
+xClasses/JSON iPhone/Documentation/tab_l.gif
+lSLF07#2@48"Copy Classes/JSON iPhone/Documentation/tab_l.gif297064340#297064340#0(0"0(0#0#82"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_l.gif4300911832#494"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_l.gif" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/tab_r.gif" "Classes/JSON iPhone/Documentation/tab_r.gif"
+s297064340.559604
+e297064340.593395
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/tab_r.gif
+xClasses/JSON iPhone/Documentation/tab_r.gif
+lSLF07#2@48"Copy Classes/JSON iPhone/Documentation/tab_r.gif297064340#297064340#0(0"0(0#0#82"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_r.gif4300911832#494"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tab_r.gif" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/tabs.css" "Classes/JSON iPhone/Documentation/tabs.css"
+s297064340.566431
+e297064340.593501
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/tabs.css
+xClasses/JSON iPhone/Documentation/tabs.css
+lSLF07#2@47"Copy Classes/JSON iPhone/Documentation/tabs.css297064340#297064340#0(0"0(0#0#81"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tabs.css4300911832#493"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/Documentation/tabs.css" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/twss_bg.png" twss_bg.png
+s297064870.627855
+e297064870.642195
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/twss_bg.png
+xtwss_bg.png
+lSLF07#2@16"Copy twss_bg.png297064870#297064870#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png4300911832#462"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource "build/Debug-iphonesimulator/She Said.app/twss_icon.png" twss_icon.png
+s297064870.629652
+e297064870.642309
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/She Said.app/twss_icon.png
+xtwss_icon.png
+lSLF07#2@18"Copy twss_icon.png297064870#297064870#0(0"0(0#0#52"/Users/dawnerd/Dropbox/xcode apps/twss/twss_icon.png4300911832#464"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/twss_icon.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CCpResource build/Debug-iphonesimulator/twss.app/twss_bg.png twss_bg.png
+s293267931.063656
+e293267931.334414
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twss.app/twss_bg.png
+xtwss_bg.png
+lSLF07#2@16"Copy twss_bg.png293267931#293267931#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png32370056120631408#458"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app"0#
+
+CGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said"
+s297065247.107093
+e297065247.151112
+r1
+xGenerateDSYMFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app.dSYM
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said
+lSLF07#2@116"GenerateDSYMFile "build/Debug-iphonesimulator/She Said.app.dSYM" "build/Debug-iphonesimulator/She Said.app/She Said"297065247#297065247#0(0"0(0#0#88"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said4300911832#392"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss"
+s293269973.594021
+e293269973.642228
+r1
+xGenerateDSYMFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app.dSYM
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/twss.app.dSYM build/Debug-iphonesimulator/twss.app/twss293269973#293269973#0(0"0(0#0#80"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss4300911832#380"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app.dSYM"0#
+
+CLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said" normal i386
+s297065247.069545
+e297065247.106917
+r1
+xLd
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said
+xnormal
+xi386
+old: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/usr/local/lib' following -L not found
+old: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/usr/local/lib' following -L not found
+old: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/macosx.sdk/usr/local/lib' following -L not found
+old: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone' following -F not found
+lSLF07#2@93"Link /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said297065247#297065247#0(544"ld: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/usr/local/lib' following -L not foundld: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/usr/local/lib' following -L not foundld: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/macosx.sdk/usr/local/lib' following -L not foundld: warning: directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone' following -F not found4(22@130"Directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/usr/local/lib' following -L not found297065247#0#144#0(6@0"297065247#0#0#0#0#0"0(22@137"Directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/usr/local/lib' following -L not found297065247#144#151#0(6@0"297065247#0#0#0#0#0"0(22@128"Directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/macosx.sdk/usr/local/lib' following -L not found297065247#295#142#0(6@0"297065247#0#0#0#0#0"0(22@93"Directory '/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone' following -F not found297065247#437#107#0(6@0"297065247#0#0#0#0#0"0(0#0#0"4300911832#1237"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-L/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphoneos.sdk/usr/local/lib" "-L/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/iphonesimulator.sdk/usr/local/lib" "-L/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone/SDKs/JSON/macosx.sdk/usr/local/lib" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" -filelist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/She Said.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/She Said"0#
+
+CLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss" normal i386
+s293269973.568108
+e293269973.593917
+r1
+xLd
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss
+xnormal
+xi386
+lSLF07#2@85"Link /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss293269973#293269973#0(0"0(0#0#0"4300911832#857"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" -filelist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/Objects-normal/i386/twss.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/twss"0#
+
+CProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Info.plist" twss-Info.plist
+s297064870.041116
+e297064870.084807
+r1
+xProcessInfoPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Info.plist
+xtwss-Info.plist
+lSLF07#2@23"Process twss-Info.plist297064870#297064870#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss-Info.plist4300911832#484"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twss-Info.plist -genpkginfo "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/Info.plist" twss-Info.plist
+s293268131.329482
+e293268131.332953
+r1
+xProcessInfoPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/Info.plist
+xtwss-Info.plist
+lSLF07#2@23"Process twss-Info.plist293268131#293268131#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss-Info.plist4300911832#476"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twss-Info.plist -genpkginfo "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app/Info.plist"0#
+
+CProcessPCH /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch.gch twss_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297064871.083862
+e297064871.807891
+r1
+xProcessPCH
+x/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch.gch
+xtwss_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile twss_Prefix.pch297064871#297064871#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch4300911832#1791"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-F/Users/dawnerd/Dropbox/xcode apps/twss/Classes/JSON iPhone" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -c "/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch" -o /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-avirgibyrfrrgqedbnayjgwsudfd/twss_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch.gch twss_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294901437.313107
+e294901438.072379
+r1
+xProcessPCH
+x/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch.gch
+xtwss_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile twss_Prefix.pch294901437#294901438#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch4300911832#1728"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources/i386" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphonesimulator/twss.build/DerivedSources" -c "/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch" -o /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wP/wPdzCkdYEK0IKqpZveCJbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-fialrlkqocpdtpeizwirhuudsmyo/twss_Prefix.pch.gch twss_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"
+s297065247.151614
+e297065247.159613
+r1
+xTouch
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app
+lSLF07#2@85"Touch /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app297065247#297065247#0(0"0(0#0#0"4300911832#283"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/She Said.app"0#
+
+CTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app"
+s293269973.642316
+e293269973.648772
+r1
+xTouch
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app
+lSLF07#2@81"Touch /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app293269973#293269973#0(0"0(0#0#0"4300911832#279"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphonesimulator/twss.app"0#
+

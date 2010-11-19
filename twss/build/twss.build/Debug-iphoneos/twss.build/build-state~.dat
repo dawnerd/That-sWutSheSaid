@@ -1,0 +1,1044 @@
+Ttwss
+v7
+r0
+t296897562.833958
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/She Said.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Info.plist" twss-Info.plist
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib"
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib"
+cCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_bg.png" twss_bg.png
+cCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_icon.png" twss_icon.png
+cCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Default.png" Default.png
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib"
+cCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib"
+cCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png" add_icon.png
+cProcessPCH /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch twss_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/main.o "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssAppDelegate.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssViewController.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/contributeForm.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said" normal armv7
+cGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said"
+cProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/embedded.mobileprovision"
+cTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent"
+cCodeSign "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004B9F103D00000000000000DD
+t1268715581
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B9F260C00000000002DE3E0
+t1268721164
+s3007456
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B9F25DA0000000000000A22
+t1268721114
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/stdlib.h
+c000000004B9F135D0000000000002DF5
+t1268716381
+s11765
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.h
+c000000004BFE0B750000000000000119
+t1274940277
+s281
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m
+c000000004BFE0B8400000000000005B3
+t1274940292
+s1459
+i"contributeForm.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib
+c000000004BFE0FBC000000000000701A
+t1274941372
+s28698
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib
+c000000004BFE04E10000000000001BBE
+t1274938593
+s7102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.h
+c000000004BCAAD1700000000000001CE
+t1271573783
+s462
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m
+c000000004BDE46040000000000000294
+t1272858116
+s660
+i"twssAppDelegate.h"
+i"twssViewController.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.h
+c000000004BFE07B800000000000001E3
+t1274939320
+s483
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m
+c000000004BFE0B130000000000001FD7
+t1274940179
+s8151
+i<stdlib.h>
+i"twssViewController.h"
+i"contributeForm.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/Default.png
+c000000004BE75D0A0000000000030609
+t1273453834
+s198153
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib
+c000000004BDE43B80000000000004DDB
+t1272857528
+s19931
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib
+c000000004BE39CA600000000000051D8
+t1273207974
+s20952
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png
+c000000004C02145C0000000000000249
+t1275204700
+s585
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app
+t1275204762
+s578
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app.dSYM
+t1275204762
+s102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Default.png
+t1275204760
+s214152
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Info.plist
+t1275204757
+s936
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/MainWindow.nib
+t1275204758
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/MainWindowiPhone.nib
+t1273208367
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/PkgInfo
+t1275204757
+s8
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/ResourceRules.plist
+t1275204757
+s485
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said
+t1275204762
+s27116
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.i
+t2
+s0
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png
+t1275204760
+s643
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/contributeForm.nib
+t1275204761
+s2339
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/contributeView.nib
+t1275204760
+s851
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/embedded.mobileprovision
+t1275204762
+s7162
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twssViewController.nib
+t1275204758
+s2119
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twssViewControlleriPhone.nib
+t1273208367
+s1410
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_bg.png
+t1275204760
+s216451
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_icon.png
+t1275204758
+s4856
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app
+t1272861975
+s408
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app.dSYM
+t1272861975
+s102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/Info.plist
+t1272861971
+s918
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/MainWindow.nib
+t1272861972
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/PkgInfo
+t1272861971
+s8
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/ResourceRules.plist
+t1272861971
+s485
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said
+t1272861975
+s17396
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/embedded.mobileprovision
+t1272861975
+s7162
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/twssViewController.nib
+t1272861972
+s1454
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/twss_bg.png
+t1272861974
+s216451
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app
+t1272862037
+s408
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app.dSYM
+t1272862037
+s102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Info.plist
+t1272862033
+s884
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/MainWindow.nib
+t1272862034
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/PkgInfo
+t1272862033
+s8
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/ResourceRules.plist
+t1272862033
+s485
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said
+t1272862037
+s17396
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/embedded.mobileprovision
+t1272862037
+s7162
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/twssViewController.nib
+t1272862034
+s1454
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/twss_bg.png
+t1272862036
+s216451
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app
+t1272861285
+s408
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app.dSYM
+t1272861285
+s102
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/Info.plist
+t1272856358
+s852
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/MainWindow.nib
+t1272857597
+s1111
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/PkgInfo
+t1272856358
+s8
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/ResourceRules.plist
+t1272856358
+s485
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/embedded.mobileprovision
+t1272856362
+s7162
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss
+t1272861285
+s23184
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twssViewController.nib
+t1272860271
+s1454
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss_bg.png
+t1272856361
+s216451
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/She Said.LinkFileList
+c000000004C02149500000000000001DB
+t1275204757
+s475
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/That's Wut She Said.LinkFileList
+c000000004BDE55130000000000000163
+t1272861971
+s355
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/Wut She Said.LinkFileList
+c000000004BDE55510000000000000163
+t1272862033
+s355
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/contributeForm.o
+t1275204761
+s34908
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/main.o
+t1275204761
+s6424
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twss.LinkFileList
+c000000004BDE404D0000000000000163
+t1272856653
+s355
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssAppDelegate.o
+t1275204761
+s43040
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssTextLabel.o
+t1272856625
+s8140
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssViewController.o
+t1275204761
+s56668
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent
+t1275204762
+s323
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/StaticAnalyzer/normal/armv7/main.plist
+t1274937789
+s275
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/StaticAnalyzer/normal/armv7/twssAppDelegate.plist
+t1274937789
+s275
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/StaticAnalyzer/normal/armv7/twssViewController.plist
+t1274937789
+s275
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent
+t1272861975
+s332
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent
+t1272862037
+s325
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss.xcent
+t1272856362
+s317
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/main.m
+c000000004BCAAD170000000000000167
+t1271573783
+s359
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.h
+c000000004BDE402F0000000000000104
+t1272856623
+s260
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m
+c000000004BDE402800000000000000BB
+t1272856616
+s187
+i"twssTextLabel.h"
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib
+c000000004C0214850000000000005C7F
+t1275204741
+s23679
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib
+c000000004BE39DC20000000000004F90
+t1273208258
+s20368
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch
+c000000004BCAAD1700000000000000B1
+t1271573783
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png
+c000000004BCAB0FC000000000002F941
+t1271574780
+s194881
+
+N/Users/dawnerd/Dropbox/xcode apps/twss/twss_icon.png
+c000000004BDE59090000000000001018
+t1272862985
+s4120
+
+N/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision
+c000000004BDE3EBC0000000000001BFA
+t1272856252
+s7162
+
+N/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch.pth
+t1274937787
+s1789544
+
+N/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch
+t1275204761
+s9421460
+
+N/var/folders/wP/wPdzCkdYEK0IKqpZveCJbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch
+t2
+s0
+
+Ntwss-Info.plist
+c000000004BE3AD0C00000000000004F4
+t1273212172
+s1268
+
+C<C0022:'CopyPNGFile add_icon.png':P12:W0>
+s296897407.096799
+e296897407.349440
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png
+xadd_icon.png
+lSLF07#2@73"CopyPNGFile "build/Debug-iphoneos/She Said.app/add_icon.png" add_icon.png296897407#296897407#0(0"0(0#0#51"/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png30962724186357872#571"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png"0#
+
+CAnalyze "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m"
+s296630589.086613
+e296630589.152647
+r1
+xAnalyze
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m
+lSLF07#2@72"Analyze /Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m296630589#296630589#0(0"0(0#0#64"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m4300911832#1753"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch --analyze "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/StaticAnalyzer/normal/armv7/twssAppDelegate.plist"0#
+
+CAnalyze "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m"
+s296630589.152741
+e296630589.203433
+r1
+xAnalyze
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m
+lSLF07#2@75"Analyze /Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m296630589#296630589#0(0"0(0#0#67"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m4300911832#1759"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch --analyze "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/StaticAnalyzer/normal/armv7/twssViewController.plist"0#
+
+CAnalyze "/Users/dawnerd/Dropbox/xcode apps/twss/main.m"
+s296630589.013719
+e296630589.086422
+r1
+xAnalyze
+x/Users/dawnerd/Dropbox/xcode apps/twss/main.m
+lSLF07#2@53"Analyze /Users/dawnerd/Dropbox/xcode apps/twss/main.m296630589#296630589#0(0"0(0#0#45"/Users/dawnerd/Dropbox/xcode apps/twss/main.m4300911832#1723"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch --analyze "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/StaticAnalyzer/normal/armv7/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296897557#296897557#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"
+s296897562.417818
+e296897562.833896
+r1
+xCodeSign
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app
+lSLF07#2@44"CodeSign "build/Debug-iphoneos/She Said.app"296897562#296897562#0(0"0(0#0#72"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app4300911832#673"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Troy Whiteley (YY5CTRB9NV)" "--resource-rules=/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/ResourceRules.plist" --entitlements "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"0#
+
+CCodeSign "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app"
+s294554775.514258
+e294554775.703637
+r1
+xCodeSign
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app
+lSLF07#2@55"CodeSign "build/Debug-iphoneos/That's Wut She Said.app"294554775#294554775#0(0"0(0#0#83"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app4300911832#706"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Troy Whiteley (YY5CTRB9NV)" "--resource-rules=/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/ResourceRules.plist" --entitlements "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app"0#
+
+CCodeSign "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app"
+s294554837.420338
+e294554837.596137
+r1
+xCodeSign
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app
+lSLF07#2@48"CodeSign "build/Debug-iphoneos/Wut She Said.app"294554837#294554837#0(0"0(0#0#76"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app4300911832#685"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Troy Whiteley (YY5CTRB9NV)" "--resource-rules=/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/ResourceRules.plist" --entitlements "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app"0#
+
+CCodeSign "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app"
+s294554085.129952
+e294554085.275293
+r1
+xCodeSign
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app
+lSLF07#2@38"CodeSign build/Debug-iphoneos/twss.app294554085#294554085#0(0"0(0#0#68"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app4300911832#661"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Troy Whiteley (YY5CTRB9NV)" "--resource-rules=/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/ResourceRules.plist" --entitlements "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss.xcent" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app"0#
+
+CCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/contributeForm.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296897561.838651
+e296897561.921834
+r1
+xCompileC
+xbuild/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/contributeForm.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m296897561#296897561#0(0"0(0#0#63"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m4300911832#1730"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/contributeForm.o"0#
+
+CCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/main.o "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296897561.734143
+e296897561.817906
+r1
+xCompileC
+xbuild/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/main.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/dawnerd/Dropbox/xcode apps/twss/main.m296897561#296897561#0(0"0(0#0#45"/Users/dawnerd/Dropbox/xcode apps/twss/main.m4300911832#1702"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/main.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/main.o"0#
+
+CCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssAppDelegate.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296897561.735490
+e296897561.838542
+r1
+xCompileC
+xbuild/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssAppDelegate.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m296897561#296897561#0(0"0(0#0#64"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m4300911832#1732"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssAppDelegate.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssAppDelegate.o"0#
+
+CCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssTextLabel.o "/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s294549425.741490
+e294549425.792065
+r1
+xCompileC
+xbuild/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssTextLabel.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowColor' requires method '-shadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowColor' requires the method 'setShadowColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowOffset' requires method '-shadowOffset' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowOffset' requires the method 'setShadowOffset:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'lineBreakMode' requires method '-lineBreakMode' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'lineBreakMode' requires the method 'setLineBreakMode:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'highlightedTextColor' requires method '-highlightedTextColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'highlightedTextColor' requires the method 'setHighlightedTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'enabled' requires the method 'setEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'numberOfLines' requires method '-numberOfLines' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'numberOfLines' requires the method 'setNumberOfLines:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'baselineAdjustment' requires method '-baselineAdjustment' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'baselineAdjustment' requires the method 'setBaselineAdjustment:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: incomplete implementation of class 'UILabel'
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-drawTextInRect:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-textRectForBounds:limitedToNumberOfLines:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: incomplete implementation of class 'UILabel'
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-initWithCoder:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-encodeWithCoder:' not found
+o/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: class 'UILabel' does not fully implement the 'NSCoding' protocol
+lSLF07#2@62"Compile /Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549425#294549425#0(6453"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowColor' requires method '-shadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowColor' requires the method 'setShadowColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowOffset' requires method '-shadowOffset' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'shadowOffset' requires the method 'setShadowOffset:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'lineBreakMode' requires method '-lineBreakMode' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'lineBreakMode' requires the method 'setLineBreakMode:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'highlightedTextColor' requires method '-highlightedTextColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'highlightedTextColor' requires the method 'setHighlightedTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'enabled' requires the method 'setEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'numberOfLines' requires method '-numberOfLines' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'numberOfLines' requires the method 'setNumberOfLines:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'baselineAdjustment' requires method '-baselineAdjustment' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: property 'baselineAdjustment' requires the method 'setBaselineAdjustment:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: incomplete implementation of class 'UILabel'/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-drawTextInRect:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-textRectForBounds:limitedToNumberOfLines:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: incomplete implementation of class 'UILabel'/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-initWithCoder:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: method definition for '-encodeWithCoder:' not found/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m:12: warning: class 'UILabel' does not fully implement the 'NSCoding' protocol34(22@116"Property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#0#185#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@123"Property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#185#192#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@116"Property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#377#185#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@123"Property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#562#192#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@126"Property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#754#195#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@133"Property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#949#202#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@130"Property 'shadowColor' requires method '-shadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#1151#199#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@137"Property 'shadowColor' requires the method 'setShadowColor:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#1350#206#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@132"Property 'shadowOffset' requires method '-shadowOffset' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#1556#201#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@139"Property 'shadowOffset' requires the method 'setShadowOffset:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#1757#208#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@134"Property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#1965#203#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@141"Property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#2168#210#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@134"Property 'lineBreakMode' requires method '-lineBreakMode' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#2378#203#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@141"Property 'lineBreakMode' requires the method 'setLineBreakMode:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#2581#210#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@148"Property 'highlightedTextColor' requires method '-highlightedTextColor' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#2791#217#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@155"Property 'highlightedTextColor' requires the method 'setHighlightedTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#3008#224#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@137"Property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#3232#206#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@159"Property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#3438#228#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@129"Property 'enabled' requires the method 'setEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#3666#198#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@134"Property 'numberOfLines' requires method '-numberOfLines' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#3864#203#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@141"Property 'numberOfLines' requires the method 'setNumberOfLines:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#4067#210#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@158"Property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#4277#227#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@165"Property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#4504#234#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@138"Property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#4738#207#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@145"Property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#4945#214#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@144"Property 'baselineAdjustment' requires method '-baselineAdjustment' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#5159#213#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@151"Property 'baselineAdjustment' requires the method 'setBaselineAdjustment:' to be defined - use @synthesize, @dynamic or provide a method implementation294549425#5372#220#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#0"0(22@44"Incomplete implementation of class 'UILabel'294549425#5592#113#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-drawTextInRect:' not found294549425#5705#119#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#35"method definition for '*' not found0(22@76"Method definition for '-textRectForBounds:limitedToNumberOfLines:' not found294549425#5824#145#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#35"method definition for '*' not found0(22@44"Incomplete implementation of class 'UILabel'294549425#5969#113#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found294549425#6082#118#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found294549425#6200#120#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#35"method definition for '*' not found0(22@64"Class 'UILabel' does not fully implement the 'NSCoding' protocol294549425#6320#133#0(6@54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m294549416#12#0#12#0#51"class '*' does not fully implement the '*' protocol0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m4300911832#1704"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/twssTextLabel.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssTextLabel.o"0#
+
+CCompileC build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssViewController.o "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296897561.818019
+e296897561.960876
+r1
+xCompileC
+xbuild/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssViewController.o
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m296897561#296897561#0(0"0(0#0#67"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m4300911832#1738"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -include /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch -c "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/twssViewController.m" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twssViewController.o"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib"
+s296897560.643130
+e296897561.047525
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB Classes/contributeForm.xib296897560#296897561#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib4300911832#489"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/contributeForm.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeForm.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib"
+s296897560.608356
+e296897560.917182
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB Classes/contributeView.xib296897560#296897560#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib4300911832#489"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/contributeView.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/Classes/contributeView.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib"
+s296897557.751799
+e296897558.213965
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib296897557#296897558#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib4300911832#473"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/MainWindow.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindow.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib"
+s294901167.124874
+e294901167.579475
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib
+lSLF07#2@31"CompileXIB MainWindowiPhone.xib294901167#294901167#0(0"0(0#0#59"/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib4300911832#485"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/MainWindowiPhone.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/MainWindowiPhone.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib"
+s296897557.753604
+e296897558.240156
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB twssViewController.xib296897557#296897558#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib4300911832#489"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twssViewController.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewController.xib"0#
+
+CCompileXIB "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib"
+s294901167.125861
+e294901167.480423
+r1
+xCompileXIB
+x/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib
+lSLF07#2@39"CompileXIB twssViewControlleriPhone.xib294901167#294901167#0(0"0(0#0#67"/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib4300911832#501"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twssViewControlleriPhone.nib" "/Users/dawnerd/Dropbox/xcode apps/twss/twssViewControlleriPhone.xib"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Default.png" Default.png
+s296897558.297879
+e296897560.608168
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Default.png
+xDefault.png
+lSLF07#2@71"CopyPNGFile "build/Debug-iphoneos/She Said.app/Default.png" Default.png296897558#296897560#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/Default.png4300911832#569"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/Default.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Default.png"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png" add_icon.png
+s296897560.917283
+e296897560.945427
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png
+xadd_icon.png
+lSLF07#2@73"CopyPNGFile "build/Debug-iphoneos/She Said.app/add_icon.png" add_icon.png296897560#296897560#0(0"0(0#0#51"/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png4300911832#571"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/add_icon.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/add_icon.png"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_bg.png" twss_bg.png
+s296897558.214077
+e296897560.643039
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_bg.png
+xtwss_bg.png
+lSLF07#2@71"CopyPNGFile "build/Debug-iphoneos/She Said.app/twss_bg.png" twss_bg.png296897558#296897560#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png7454972945256899584#569"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_bg.png"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_icon.png" twss_icon.png
+s296897558.240256
+e296897558.297788
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_icon.png
+xtwss_icon.png
+lSLF07#2@75"CopyPNGFile "build/Debug-iphoneos/She Said.app/twss_icon.png" twss_icon.png296897558#296897558#0(0"0(0#0#52"/Users/dawnerd/Dropbox/xcode apps/twss/twss_icon.png4300911832#573"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/twss_icon.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/twss_icon.png"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/twss_bg.png" twss_bg.png
+s294554772.410417
+e294554774.636018
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/twss_bg.png
+xtwss_bg.png
+lSLF07#2@82"CopyPNGFile "build/Debug-iphoneos/That's Wut She Said.app/twss_bg.png" twss_bg.png294554772#294554774#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png4300911832#580"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/twss_bg.png"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/twss_bg.png" twss_bg.png
+s294554834.205453
+e294554836.528814
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/twss_bg.png
+xtwss_bg.png
+lSLF07#2@75"CopyPNGFile "build/Debug-iphoneos/Wut She Said.app/twss_bg.png" twss_bg.png294554834#294554836#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png4300911832#573"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/twss_bg.png"0#
+
+CCopyPNGFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss_bg.png" twss_bg.png
+s294549158.892221
+e294549161.139041
+r1
+xCopyPNGFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss_bg.png
+xtwss_bg.png
+lSLF07#2@65"CopyPNGFile build/Debug-iphoneos/twss.app/twss_bg.png twss_bg.png294549158#294549161#0(0"0(0#0#50"/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png4300911832#565"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dawnerd/Dropbox/xcode apps/twss/twss_bg.png" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss_bg.png"0#
+
+CCpResource "build/Debug-iphoneos/She Said.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s296897557.688053
+e296897557.751706
+r1
+xCpResource
+xbuild/Debug-iphoneos/She Said.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist296897557#296897557#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist4300911832#485"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"0#
+
+CCpResource "build/Debug-iphoneos/That's Wut She Said.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s294554771.816475
+e294554771.871341
+r1
+xCpResource
+xbuild/Debug-iphoneos/That's Wut She Said.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist294554771#294554771#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist4300911832#496"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app"0#
+
+CCpResource "build/Debug-iphoneos/Wut She Said.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s294554833.811293
+e294554833.821373
+r1
+xCpResource
+xbuild/Debug-iphoneos/Wut She Said.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist294554833#294554833#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist4300911832#489"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app"0#
+
+CCpResource build/Debug-iphoneos/twss.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s294549158.293547
+e294549158.373133
+r1
+xCpResource
+xbuild/Debug-iphoneos/twss.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist294549158#294549158#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist8386103210209923072#481"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app"0#
+
+CGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said"
+s296897562.348476
+e296897562.404066
+r1
+xGenerateDSYMFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app.dSYM
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said
+lSLF07#2@102"GenerateDSYMFile "build/Debug-iphoneos/She Said.app.dSYM" "build/Debug-iphoneos/She Said.app/She Said"296897562#296897562#0(0"0(0#0#81"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said4300911832#371"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said"
+s294554775.428799
+e294554775.450937
+r1
+xGenerateDSYMFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app.dSYM
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said
+lSLF07#2@135"GenerateDSYMFile "build/Debug-iphoneos/That's Wut She Said.app.dSYM" "build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said"294554775#294554775#0(0"0(0#0#103"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said4300911832#404"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said"
+s294554837.371510
+e294554837.396067
+r1
+xGenerateDSYMFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app.dSYM
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said
+lSLF07#2@114"GenerateDSYMFile "build/Debug-iphoneos/Wut She Said.app.dSYM" "build/Debug-iphoneos/Wut She Said.app/Wut She Said"294554837#294554837#0(0"0(0#0#89"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said4300911832#383"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app.dSYM" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss"
+s294554085.056717
+e294554085.082402
+r1
+xGenerateDSYMFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app.dSYM
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/twss.app.dSYM build/Debug-iphoneos/twss.app/twss294554085#294554085#0(0"0(0#0#73"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss4300911832#359"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app.dSYM"0#
+
+CLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said" normal armv7
+s296897561.960978
+e296897562.348277
+r1
+xLd
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said
+xnormal
+xarmv7
+lSLF07#2@86"Link /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said296897561#296897562#0(0"0(0#0#0"4300911832#829"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk "-L/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" -filelist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/She Said.LinkFileList" -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/She Said"0#
+
+CLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said" normal armv7
+s294554775.397772
+e294554775.428688
+r1
+xLd
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said
+xnormal
+xarmv7
+lSLF07#2@108"Link /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said294554775#294554775#0(0"0(0#0#0"4300911832#862"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk "-L/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" -filelist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/That's Wut She Said.LinkFileList" -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/That's Wut She Said"0#
+
+CLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said" normal armv7
+s294554837.330957
+e294554837.371403
+r1
+xLd
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said
+xnormal
+xarmv7
+lSLF07#2@94"Link /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said294554837#294554837#0(0"0(0#0#0"4300911832#841"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk "-L/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" -filelist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/Wut She Said.LinkFileList" -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Wut She Said"0#
+
+CLd "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss" normal armv7
+s294554085.024929
+e294554085.056615
+r1
+xLd
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss
+xnormal
+xarmv7
+lSLF07#2@78"Link /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss294554085#294554085#0(0"0(0#0#0"4300911832#817"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk "-L/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" -filelist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Objects-normal/armv7/twss.LinkFileList" -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/twss"0#
+
+CProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Info.plist" twss-Info.plist
+s296897557.689177
+e296897557.721285
+r1
+xProcessInfoPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Info.plist
+xtwss-Info.plist
+lSLF07#2@23"Process twss-Info.plist296897557#296897557#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss-Info.plist4300911832#570"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twss-Info.plist -genpkginfo "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/ResourceRules.plist" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/Info.plist" twss-Info.plist
+s294554771.817631
+e294554771.871508
+r1
+xProcessInfoPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/Info.plist
+xtwss-Info.plist
+lSLF07#2@23"Process twss-Info.plist294554771#294554771#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss-Info.plist4300911832#603"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twss-Info.plist -genpkginfo "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/ResourceRules.plist" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Info.plist" twss-Info.plist
+s294554833.813601
+e294554833.823063
+r1
+xProcessInfoPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Info.plist
+xtwss-Info.plist
+lSLF07#2@23"Process twss-Info.plist294554833#294554833#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss-Info.plist4300911832#582"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twss-Info.plist -genpkginfo "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/ResourceRules.plist" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/Info.plist" twss-Info.plist
+s294549158.324429
+e294549158.344031
+r1
+xProcessInfoPlistFile
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/Info.plist
+xtwss-Info.plist
+lSLF07#2@23"Process twss-Info.plist294549158#294549158#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss-Info.plist4300911832#558"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twss-Info.plist -genpkginfo "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/ResourceRules.plist" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/Info.plist"0#
+
+CProcessPCH /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch.pth twss_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s296630586.821745
+e296630588.032761
+r1
+xProcessPCH
+x/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch.pth
+xtwss_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@26"Precompile twss_Prefix.pch296630586#296630588#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch8607556960698852352#1604"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -c "/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch" -o /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-ebgmaznoikosuhemgojdtgupgepw/twss_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch twss_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296897561.047843
+e296897561.733990
+r1
+xProcessPCH
+x/var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch
+xtwss_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile twss_Prefix.pch296897561#296897561#0(0"0(0#0#54"/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch4300911832#1601"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-generated-files.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-own-target-headers.hmap" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-all-target-headers.hmap" -iquote "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said-project-headers.hmap" "-F/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/include" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources/armv7" "-I/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/DerivedSources" -c "/Users/dawnerd/Dropbox/xcode apps/twss/twss_Prefix.pch" -o /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wP/wPdzCkdYEK0IKqpZveCJbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hjqvkhkgpzbygvgydxiblsjkrvfn/twss_Prefix.pch.gch twss_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/embedded.mobileprovision"
+s296897562.404290
+e296897562.405695
+r1
+xProcessProductPackaging
+x/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "build/Debug-iphoneos/She Said.app/embedded.mobileprovision"296897562#296897562#0(0"0(0#0#97"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/embedded.mobileprovision4300911832#430"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/embedded.mobileprovision"
+s294554775.451046
+e294554775.454488
+r1
+xProcessProductPackaging
+x/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/embedded.mobileprovision
+lSLF07#2@208"ProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "build/Debug-iphoneos/That's Wut She Said.app/embedded.mobileprovision"294554775#294554775#0(0"0(0#0#108"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/embedded.mobileprovision4300911832#441"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/embedded.mobileprovision"
+s294554837.396208
+e294554837.397860
+r1
+xProcessProductPackaging
+x/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "build/Debug-iphoneos/Wut She Said.app/embedded.mobileprovision"294554837#294554837#0(0"0(0#0#101"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/embedded.mobileprovision4300911832#434"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/embedded.mobileprovision"
+s294549162.696127
+e294549162.697825
+r1
+xProcessProductPackaging
+x/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/embedded.mobileprovision
+lSLF07#2@191"ProcessProductPackaging "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" build/Debug-iphoneos/twss.app/embedded.mobileprovision294549162#294549162#0(0"0(0#0#93"/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/embedded.mobileprovision4300911832#426"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dawnerd/Library/MobileDevice/Provisioning Profiles/64624C32-3ABE-49B1-B1F7-B4B171DD5AC2.mobileprovision" -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent"
+s296897562.412687
+e296897562.417745
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "build/twss.build/Debug-iphoneos/twss.build/She Said.xcent"296897562#296897562#0(0"0(0#0#96"/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent4300911832#431"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/She Said.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent"
+s294554775.461269
+e294554775.514076
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent"294554775#294554775#0(0"0(0#0#107"/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent4300911832#442"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/That's Wut She Said.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent"
+s294554837.401109
+e294554837.420259
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent
+lSLF07#2@176"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent"294554837#294554837#0(0"0(0#0#100"/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent4300911832#435"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/Wut She Said.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss.xcent"
+s294549162.704664
+e294549162.743728
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/twss.build/Debug-iphoneos/twss.build/twss.xcent294549162#294549162#0(0"0(0#0#92"/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss.xcent4300911832#427"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Debug-iphoneos/twss.build/twss.xcent"0#
+
+CTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"
+s296897562.405763
+e296897562.412587
+r1
+xTouch
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app
+lSLF07#2@78"Touch /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app296897562#296897562#0(0"0(0#0#0"4300911832#269"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/She Said.app"0#
+
+CTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app"
+s294554775.454714
+e294554775.461170
+r1
+xTouch
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app
+lSLF07#2@89"Touch /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app294554775#294554775#0(0"0(0#0#0"4300911832#280"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/That's Wut She Said.app"0#
+
+CTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app"
+s294554837.397934
+e294554837.401019
+r1
+xTouch
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app
+lSLF07#2@82"Touch /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app294554837#294554837#0(0"0(0#0#0"4300911832#273"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/Wut She Said.app"0#
+
+CTouch "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app"
+s294554085.087616
+e294554085.129767
+r1
+xTouch
+x/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app
+lSLF07#2@74"Touch /Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app294554085#294554085#0(0"0(0#0#0"4300911832#265"    cd "/Users/dawnerd/Dropbox/xcode apps/twss"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dawnerd/Dropbox/xcode apps/twss/build/Debug-iphoneos/twss.app"0#
+

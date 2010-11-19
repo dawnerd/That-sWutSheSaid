@@ -1,0 +1,17 @@
+00000000000000000000000000000000 75011d1dec7916d9b4c8b499466e7acd ffffffffffffffffffffffffffffffff 0 /Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Distribution-iphoneos/twss.build/com.apple.build-tools.platform.validate
+617fe8a1c6f433bf43998b32a7e0905e 5231b6cc956f0905f2fbb91c4ad33d01 ffffffffffffffffffffffffffffffff 323 /Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Distribution-iphoneos/twss.build/She Said.xcent
+000b8636bc504c7dc2a6702777dc1a0d 900b3e6cb90729d99604dcaeb4fa930d ffffffffffffffffffffffffffffffff 442 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app
+00000000000000000000000000000000 d82ed6b989fc065671e32ddd91a63913 ffffffffffffffffffffffffffffffff 7043 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/embedded.mobileprovision
+00000000000000000000000000000000 c80b429ddc77f574ef0f72c30bd51efa ffffffffffffffffffffffffffffffff 4856 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/twss_icon.png
+00000000000000000000000000000000 77e46140045f467e713b431dffefd321 ffffffffffffffffffffffffffffffff 216451 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/twss_bg.png
+000000004be39b780000000000004fcc 5a310d3f55209610d104f8f3c03be56e ffffffffffffffffffffffffffffffff 1451 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/twssViewController.nib
+000000004bde43b80000000000004ddb bbc5c32a96e4c54b3ae6efb0d2a1d939 ffffffffffffffffffffffffffffffff 1111 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/MainWindow.nib
+00000000000000000000000000000000 617fe8a1c6f433bf43998b32a7e0905e ffffffffffffffffffffffffffffffff 8 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/PkgInfo
+00000000000000000000000000000000 617fe8a1c6f433bf43998b32a7e0905e ffffffffffffffffffffffffffffffff 936 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/Info.plist
+00000000000000000000000000000000 1b709092c4c315c2c36a012d4e48b684 ffffffffffffffffffffffffffffffff 485 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/ResourceRules.plist
+00000000000000000000000000000000 a9b4bd1553844ed452824094483de90c ffffffffffffffffffffffffffffffff 102 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app.dSYM
+7150f8e7ff670a29bd439fad3a1365ae ec1ed53215d96d51b8bae5e7748103af ffffffffffffffffffffffffffffffff 25812 /Users/dawnerd/Dropbox/xcode apps/twss/build/Distribution-iphoneos/She Said.app/She Said
+ebc3852e69ca4c02d04b75824a521ce6 631cd0f38eed8ed7ae0a1da50e1a7d92 ffffffffffffffffffffffffffffffff 52108 /Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Distribution-iphoneos/twss.build/Objects-normal/armv7/twssViewController.o
+ebc3852e223d1f32d04b75824a5226e8 677cd9ba459858f036bfa7973f613d22 ffffffffffffffffffffffffffffffff 42820 /Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Distribution-iphoneos/twss.build/Objects-normal/armv7/twssAppDelegate.o
+ebc3852e699ff2b1d04b75824a522ce1 9ef3748016727804f5bd501d4347edf1 ffffffffffffffffffffffffffffffff 6416 /Users/dawnerd/Dropbox/xcode apps/twss/build/twss.build/Distribution-iphoneos/twss.build/Objects-normal/armv7/main.o
+000000004bcaba230000000000001a6b ebc3852e2200d408d04b75824a523e62 ffffffffffffffffffffffffffffffff 9228948 /var/folders/hB/hBO0UX1SHO0KzXVAd5TVN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twss_Prefix-hbsyosiufdvfkufscddxkbeyrtom/twss_Prefix.pch.gch
